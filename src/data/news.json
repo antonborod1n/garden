@@ -1,0 +1,46 @@
+{
+  "news": [
+    {
+      "title": "News start",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ullam voluptatum beatae, ratione cum necessitatibus soluta, sed sit numquam debitis similique porro optio aperiam cumque velit doloribus ipsa! Amet est consectetur mollitia temporibus iure eligendi, debitis beatae eos et suscipit ex quo, quisquam non nobis quaerat. Esse quisquam ipsum fugiat porro totam ad tempore atque magni accusantium nostrum rerum accusamus laudantium veniam neque itaque asperiores a consequatur, dolorem autem modi mollitia necessitatibus omnis ea nesciunt. Atque perspiciatis a, debitis illum sint iure delectus enim cum accusantium? Officia, laborum. Quisquam doloremque corporis eum, officia ducimus voluptatum harum architecto nulla porro dolorum?",
+      "createdAt": "01-11-2021",
+      "id": 1,
+      "author": "Anna"
+    },
+    {
+      "title": "News 2",
+      "descr": "123612638123816237213712387812812378621387378128317287231871378662187813276132878172633126Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ullam voluptatum beatae, ratione cum necessitatibus soluta, sed sit numquam debitis similique porro optio aperiam cumque velit doloribus ipsa! Amet est consectetur mollitia temporibus iure elig123",
+      "createdAt": "02-11-2021",
+      "id": 2,
+      "author": "Peter"
+    },
+    {
+      "title": "News 3",
+      "descr": "3333333333333333123612638123816237213712387812812378621387378128317287231871378662187813276132878172633126Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ullam voluptatum beatae, ratione cum necessitatibus soluta, sed sit numquam debitis similique porro optio aperiam cumque velit doloribus ipsa! Amet est consectetur mollitia temporibus iure elig123",
+      "createdAt": "01-11-2021",
+      "id": 3,
+      "author": "Catrina"
+    },
+    {
+      "title": "123",
+      "descr": "123123123",
+      "createdAt": "3-11-2021",
+      "id": 4,
+      "author": "Max"
+    },
+    {
+      "title": "Post #5",
+      "descr": "Lorem ipsum text............",
+      "createdAt": "3-11-2021",
+      "id": 5,
+      "author": "Yulia"
+    },
+    {
+      "title": "Post #6",
+      "descr": "About post #6",
+      "createdAt": "3-11-2021",
+      "id": 6,
+      "author": "Joe"
+    }
+  ]
+}
