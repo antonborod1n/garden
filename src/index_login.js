@@ -1,5 +1,3 @@
-import getData from "./modules/script";
+import "./scss/main.scss";
 
-import "./scss/main.scss"
 
-getData();

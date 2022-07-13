@@ -1,0 +1,11 @@
+body {
+    @extend %roboto-400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.container {
+    max-width: 1380px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
